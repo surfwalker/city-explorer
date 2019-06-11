@@ -32,6 +32,6 @@ Actual time needed to complete: 10 mins
 
 Number and name of feature: 2 Locations
 Estimate of time needed to complete: 30 mins
-Start time: 10:50am
-Finish time:
-Actual time needed to complete:
+Start time: 11:00am
+Finish time: 12:30pm
+Actual time needed to complete: 1hr 30 mins
